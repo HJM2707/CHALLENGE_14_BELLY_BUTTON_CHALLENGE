@@ -31,3 +31,7 @@ Use otu_labels for the text values.
 Display the sample metadata, i.e., an individual's demographic information.
 
 Display each key-value pair from the metadata JSON object somewhere on the page.
+
+Deploy the link on github page
+# please see the link below
+https://hjm2707.github.io/CHALLENGE_14_BELLY_BUTTON_CHALLENGE/
